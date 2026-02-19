@@ -1,3 +1,5 @@
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/cepiweek)](https://cran.r-project.org/package=cepiweek)
+[![CRAN status](https://www.r-pkg.org/badges/version/cepiweek)](https://CRAN.R-project.org/package=cepiweek)
 # cepiweek
 
 
@@ -19,6 +21,8 @@ They are intended for time-series analysis and epimeliogical modeling.
 ## Installation =====
 
 ```r
+\# official method :
+install.packages("cepiweek")
 
 \# Depuis GitHub
 
